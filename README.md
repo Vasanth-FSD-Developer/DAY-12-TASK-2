@@ -1,2 +1,2 @@
-# DAY-12-TASK-2
+<img src="Survey.png" alt="survey">
 A survey form using HTML,CSS and Bootstrap.
